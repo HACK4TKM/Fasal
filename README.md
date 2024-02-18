@@ -1,30 +1,64 @@
 ![image](HACK4TKM.jpeg)
 
+# Fasal - HACK4TKM
 
-# {Project Name} - HACK4TKM
-Tell us about your project here
+Fasal is an innovative project at the intersection of technology, agriculture, and rural development, with a primary goal of empowering farmers through smart and sustainable practices. In the face of evolving challenges in the agricultural sector, this initiative leverages Artificial Intelligence (AI) to create a comprehensive and accessible platform that caters to the diverse needs of farmers, contributing to the advancement of agriculture, food security, and overall rural development.
 
 ## Team Members
-[1.Team Member 1](enter_github_id_here)   
-[2.Team Member 2](enter_github_id_here)   
-[3.Team Member 3](enter_github_id_here)   
-[4.Team Member 4](enter_github_id_here)   
 
-## Link to Project
-[Embed the live link of project](live_link)
+[1.Abhinav M M](https://github.com/abhinavmohanan)  
+[2.Amil P A](https://github.com/amilpa)  
+[3.Anish Pillai](https://github.com/aswin-madhav)  
+[4.Aswin Madhav A](https://github.com/anishpillai2002)
 
 ## How it Works ?
-Explaining the working of project  
-Embed video of project demo
+
+Explaining the working of project
+
+[Project Demo](https://www.youtube.com/watch?v=3mBcRmMAz34)
 
 ## Technologies used
-List out tech stacks you have used
+
+- Flutter
+- Express.js
+- sckit-learn
+- FastAPI
+- GPT 3.5
+- mongoDB
 
 ## How to configure
-Instructions for setting up project
+
+Frontend:
+
+1. Clone the repository: `git clone https://github.com/hack4tkm/fasal`
+2. Navigate to the project directory: `cd Fasal_App`
+3. Install dependencies: `flutter pub get`
+
+Backend:
+
+1. Clone the repository: `git clone https://github.com/hack4tkm/fasal`
+2. Navigate to the project directory: `cd Fasal_server`
+3. Install dependencies: `npm install`
+
+Model(Microservice):
+
+1. Clone the repository: `git clone https://github.com/hack4tkm/fasal`
+2. Navigate to the project directory: `cd Crop-Prediction`
 
 ## How to Run
-Instructions for running
+
+Frontend:
+
+- Run the app: `flutter run`
+
+Backend:
+
+- Run the app: `npm run dev`
+
+Model
+
+- Run the app: `python main.py`
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI, Abstract, Presentation )
+
+[Project presentation](https://drive.google.com/drive/folders/1qSp08K1gAD69JCKY1GYbDmsG0FIlaepo?usp=sharing)
